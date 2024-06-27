@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Camilla</h1>
-<h3 align="center">A passionate developer from Spain</h3>
+<h3 align="center">A passionate data engineer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cammiilla&label=Profile%20views&color=0e75b6&style=flat" alt="cammiilla" /> </p>
 
@@ -12,12 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yourprofile" height="30" width="40" /></a>
-<a href="https://twitter.com/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yourprofile" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="yourprofile" height="30" width="40" /></a>
-<a href="https://instagram.com/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="yourprofile" height="30" width="40" /></a>
-<a href="https://dribbble.com/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="yourprofile" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/yourprofile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="yourprofile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/camila-oliveira-cardoso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="camila-oliveira-cardoso" height="30" width="40" /></a>
+<a href="https://instagram.com/a_camilaaaaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="a_camilaaaaa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
